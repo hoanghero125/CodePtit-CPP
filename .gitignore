@@ -1,4 +1,4 @@
 # Ignore specific files
-input.inp
-output.out
+index.inp
+index.out
 expected.out
