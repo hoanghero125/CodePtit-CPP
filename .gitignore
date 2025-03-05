@@ -2,3 +2,5 @@
 index.inp
 index.out
 expected.out
+
+*.exe
