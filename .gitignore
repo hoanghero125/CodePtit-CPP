@@ -1,0 +1,4 @@
+# Ignore specific files
+input.inp
+output.out
+expected.out
